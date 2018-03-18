@@ -1,0 +1,1 @@
+Tmdb::Api.key(Figaro.env.tmdb_api_key)

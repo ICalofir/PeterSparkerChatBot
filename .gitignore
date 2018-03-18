@@ -1,0 +1,7 @@
+rails_api/public
+rails_api/tmp
+rails_api/log
+rails_api/config/application.yml
+rails_api/db/development.sqlite3
+ml_summarization/summarization_utils.pyc
+*.wav
